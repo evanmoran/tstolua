@@ -1,5 +1,7 @@
 # TypeScript to Lua
 
+This is not good project, i will delete it.
+
 [TypeScript Homepage](http://www.typescriptlang.org/)
 
 ## Building
